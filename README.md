@@ -10,7 +10,7 @@ Educational institutions and training organisations issue many certificates. Ver
 
 ## Objectives
 
-- Learn how to develop applications using the Algorand blockchain.
+- Learn how to develop applications using the Algorand blockchaiN.
 - Explore Algorand transactions and blockchain records.
 - Create a simple method for registering certificate information.
 - Allow certificate information to be verified using blockchain data.
@@ -22,7 +22,7 @@ Educational institutions and training organisations issue many certificates. Ver
 2. Generate or store identifying information for the certificate.
 3. Record relevant information using Algorand.
 4. Retrieve the blockchain record.
-5. Verify whether the certificate matches the recorded information.
+5. CHECK whether the certificate matches the recorded information.
 
 ## Technology
 
